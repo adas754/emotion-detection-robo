@@ -1,4 +1,4 @@
-# emotion-detection-robo
+# Emotion-detection-robo
 
 # That robo take picture
 # Based on that picture write emotion as text
